@@ -1,4 +1,3 @@
 # myblog
 
-[[2018-01-08: Numpad for entering integers using a touch screen]]  
-[[caca]]
+This blog is actually a wiki with its home page [here](https://github.com/aubreymoore/myblog/wiki).
